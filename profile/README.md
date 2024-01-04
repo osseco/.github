@@ -1,7 +1,9 @@
 ## Open Source + Software Ecosystem = OSSECO 👋
 
 ### Goal
-Build free, secure and open source ecosystem of apps (Notes, Email, Files, Photos, Messagging) with privacy and data ownership in mind.
+Build free, secure and open source ecosystem of apps and services (Notes, Email, Files, Photos, Messagging, AI) with privacy and data ownership in mind.
+
+e/acc
 
 ### Principles
 - Data ownership to a user
