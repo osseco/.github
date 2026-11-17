@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 280" width="1280" height="280" role="img" aria-labelledby="t">
+  <title id="t">OSSEco — open source ecosystem support</title>
+  <!-- Colors are the osseco design tokens (dark theme), see osseco/web-design-guide docs/tokens.md. -->
+  <rect x="0.5" y="0.5" width="1279" height="279" rx="16" fill="oklch(0.16 0.018 240)" stroke="oklch(1 0 0 / 10%)"/>
+  <g transform="translate(88 76) scale(4)">
+    <rect width="32" height="32" rx="7" fill="oklch(0.82 0.1 185)"/>
+    <path d="M16 10.5 10.5 20M16 10.5 21.5 20M10.5 21.5h11" stroke="oklch(0.2 0.03 240)" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <g fill="oklch(0.2 0.03 240)"><circle cx="16" cy="9.5" r="3"/><circle cx="9.5" cy="21.5" r="3"/><circle cx="22.5" cy="21.5" r="3"/></g>
+  </g>
+  <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
+    <text x="264" y="112" fill="oklch(0.82 0.1 185)" font-size="15" font-weight="500" letter-spacing="3.75">OPEN SOURCE ECOSYSTEM SUPPORT</text>
+    <text x="262" y="172" fill="oklch(0.97 0.01 240)" font-size="60" font-weight="600" letter-spacing="-1.5">OSSEco</text>
+    <text x="264" y="212" fill="oklch(0.708 0 0)" font-size="22">Tools, curated lists and shared practice for open source.</text>
+  </g>
+</svg>
